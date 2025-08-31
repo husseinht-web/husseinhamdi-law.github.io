@@ -1,0 +1,34 @@
+{
+  "header": {
+    "title": "Hussein Hamdi Law Firm",
+    "subtitle": "Exceptional Legal Expertise – Integrity – Strong Representation – Tailored Solutions"
+  },
+  "services": {
+    "title": "Our Legal Services",
+    "criminal": "Criminal Law",
+    "criminal_desc": "Defending clients, appeals, cassation, major criminal cases.",
+    "commercial": "Commercial Law",
+    "commercial_desc": "Commercial contracts, companies, investments, intellectual property.",
+    "real_estate": "Real Estate Law",
+    "real_estate_desc": "Ownership, disputes, transfers, land and property registration."
+  },
+  "about": {
+    "title": "About Us",
+    "desc1": "Hussein Hamdi Law Firm is one of the leading legal practices in Egypt, renowned for its reputation in local and international courts.",
+    "desc2": "We specialize in providing precise legal advice and strong client representation across various legal fields.",
+    "btn": "Learn More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "info": "Contact Information",
+    "address": "Cairo Office, Tahrir Street, Al-Ittihad Building, 7th Floor",
+    "hours": "Sunday to Thursday, 9:00 AM - 5:00 PM"
+  },
+  "footer": {
+    "copyright": "&copy; 2025 Hussein Hamdi Law Firm. All rights reserved."
+  }
+}
